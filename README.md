@@ -4,7 +4,7 @@ A modern, accessible, and responsive profile card built with semantic HTML, vani
 
 ## 🌐 Live Demo
 
-**[View Live Demo](#)** *(Add your deployed URL here)*
+**[View Live Demo](https://profile-card-r.netlify.app/)**
 
 ## 📋 Features
 
